@@ -28,6 +28,17 @@ I participate as **Orionn** on Immunefi and Sherlock, and as **4funnds** on Code
 
 Platform profiles are the source of truth for finalized findings, placements, and rewards.
 
+## Curated Notable Findings
+
+| Finding or accepted result | Target | Platform | Severity | Result | Public evidence |
+| --- | --- | --- | --- | --- | --- |
+| Accepted vulnerability set across the XRPL-native lending implementation | XRPL Lending Protocol | Immunefi | 1 Critical · 1 High · 2 Medium/Low | **#7 of 54** · **$8,013** | [Competition results](https://immunefi.com/audit-competition/xrpl-ripple-attackathon/leaderboard/) |
+| Accepted consensus, P2P, transaction-pool, and native-contract findings in the Hayabusa upgrade | VeChainThor Hayabusa | Immunefi | 4 Medium/Low | **#5 of 16** · **$1,677** | [Published findings](https://reports.immunefi.com/vechain-hayabusa-upgrade-or-attackathon) |
+| [`periodAtTimestamp()` ignores its input and returns the current period](https://reports.immunefi.com/firelight/59467-sc-low-periodattimestamp-ignores-input-parameter) | FirelightVault | Immunefi | Low | **#31 of 44** · **$16** | [Report #59467](https://reports.immunefi.com/firelight/59467-sc-low-periodattimestamp-ignores-input-parameter) |
+| Accepted smart-contract vulnerability in Plume's RWA-focused protocol stack | Plume Network | Immunefi | High | **#93 of 123** · **$48** | [Competition results](https://immunefi.com/audit-competition/plume-network-attackathon/leaderboard/) |
+
+Accepted-result rows use public competition-level counts where the canonical published report does not expose every duplicate submitter. Only finalized results with stable public evidence are listed.
+
 ## Security Research Focus
 
 - **Smart contracts and DeFi:** accounting invariants, rounding and precision, state transitions, liquidation paths, oracle assumptions, reentrancy, authorization, and economic attacks.
