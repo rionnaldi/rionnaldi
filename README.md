@@ -4,7 +4,7 @@
 
 ### Independent Security Researcher • Web3
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark?quote=embrace%20the%20complexity?author=me)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
 
 [![Immunefi](https://img.shields.io/badge/Immunefi-Orionn-5C34F4?style=for-the-badge)](https://immunefi.com/profile/Orionn/)
 [![Sherlock](https://img.shields.io/badge/Sherlock-Orionn-111827?style=for-the-badge)](https://audits.sherlock.xyz/watson/Orionn)
